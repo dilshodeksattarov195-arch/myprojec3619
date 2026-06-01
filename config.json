@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachererify",
+        "uuid": 792561,
+        "checksum": "9cqe06"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
